@@ -16,5 +16,5 @@ Collaborative Filtering algorithm.<br/>
 6. Creation of a recommendation system based on Collaborative Filtering technique.
 
 ### Usage
-All code are in the RestaurantsAndConsumers.ipynb a Jupyter Notebook.<br/>
+All code are in the *RestaurantsAndConsumers.ipynb* a Jupyter Notebook.<br/>
 Or use at this link for [interactive jupyter report](https://deepnote.com/@marco-servadio/Big-Data-Second-Project-Group-6-JQJi8keqTeGwuQo0QwdX0A)
